@@ -1,3 +1,31 @@
-h1 {
-    color: red;
+body {
+    background-color: rosybrown 
+}
+ul {
+    font-size: 20px;
+}
+.btt {
+    text-align: right;
+    font-family: 'Squada One', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Squada One', sans-serif;
+    background-color: darksalmon;
+}
+h3 {
+    font-size: 30px;
+}
+header {
+    background-color: darksalmon;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;
+}
+
+.bold {
+    font-family: 'Squada One', sans-serif;
+    background-color: lavenderblush
 }
