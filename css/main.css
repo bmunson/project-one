@@ -1,10 +1,12 @@
 body {
     background-color: rosybrown 
 }
+
 ul {
     font-size: 20px;
     font-family: 'EB Garamond', serif;
 }
+
 .btt {
     text-align: right;
     font-family: 'Squada One', sans-serif;
@@ -14,9 +16,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Squada One', sans-serif;
     background-color: darksalmon;
 }
+
 h3 {
     font-size: 30px;
 }
+
 header {
     background-color: darksalmon;
 }
